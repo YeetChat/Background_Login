@@ -1,4 +1,2 @@
 # Background_Login
-The background for the logins on yeetchat
-# Why a seperate repo? Aren't the files in the core repo?
-Github Pages. Thats the reason.
+something you can use in an iframe as a background - used to be used in YeetChat as the background when logging in, back when that was still a thing
